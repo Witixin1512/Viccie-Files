@@ -1,0 +1,20 @@
+[
+  {
+    "resourceLocation": "betterloadingscreen:textures/mcheli28.png",
+    "positionType": "CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "position": {
+      "x": 0,
+      "y": 124,
+      "width": 0,
+      "height": 0
+    },
+    "comment": "None"
+  }
+]
